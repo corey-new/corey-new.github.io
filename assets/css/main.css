@@ -1918,7 +1918,7 @@ input, select, textarea {
 		background: #43B3E0;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		border-radius: 10px;
-		text-align: center;
+		text-align: left;
 		padding: 2em;
 		
 	}
@@ -2011,7 +2011,8 @@ input, select, textarea {
 			background-size: 50%;
 			background-attachment: fixed;
 			background-position: center;
-			padding: 10vh
+			padding: 10vh;
+			border-radius: 15px;
 		}
 
 		.wrapper.style3 {
